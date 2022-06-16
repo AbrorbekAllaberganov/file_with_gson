@@ -1,0 +1,6 @@
+{
+    "username":"abrorMe",
+    "firstName":"Abror",
+    "lastName":"Allaberganov",
+    "age":20
+}
